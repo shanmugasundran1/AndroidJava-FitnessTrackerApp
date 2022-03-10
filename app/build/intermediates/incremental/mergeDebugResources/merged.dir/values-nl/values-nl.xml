@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="AboutLabel">Over</string>
+    <string name="AddLabel">Voeg toe</string>
+    <string name="BMI_dialog_title">Body Mass Index (BMI)</string>
+    <string name="BMI_formula">BMI = gewicht(kg) / lengte(m)Â²</string>
+    <string name="CardioLabel">Cardio</string>
+    <string name="ChronometerLabel">Chronometer</string>
+    <string name="CountdownLabel">Rust tijd</string>
+    <string name="DateLabel">Datum</string>
+    <string name="DeleteLabel">Verwijderen</string>
+    <string name="DeleteRecordDialog">Dit record verwijderen?</string>
+    <string name="DistanceLabel">Afstand</string>
+    <string name="DurationLabel">Duur</string>
+    <string name="EditLabel">Bewerken</string>
+    <string name="FFMI_dialog_title">Vet-vrije massa Index(VVMI)</string>
+    <string name="FFMI_formula">FFMI [kg/m2] = gewicht [kg] Ã— (1 âˆ’ (lichaamsvet[%] / 100)) / (lengte [m])Â²</string>
+    <string name="FilterHint">Filter op oefeningnaam</string>
+    <string name="FilterTextViewType">Filter op type oefening</string>
+    <string name="FonteLabel">Bodybuilding</string>
+    <string name="FunctionLabel">Scherm</string>
+    <string name="GraphLabel">Grafieken</string>
+    <string name="HistoryLabel">Geschiedenis</string>
+    <string name="MachineHint">Naam van oefening</string>
+    <string name="MachineLabel">Oefening</string>
+    <string name="MachinesLabel">Oefeningen</string>
+    <string name="NotesLabel">Notities</string>
+    <string name="PoidsLabel">Gewicht</string>
+    <string name="ProfileLabel">Profiel</string>
+    <string name="RFM_dialog_title">Relative Fat Mass Index (RFM)</string>
+    <string name="RFM_female_formula">Women: RFM = 76 â€“ (20 x (maat/heup omtrek))</string>
+    <string name="RFM_male_formula">Men: RFM = 64 â€“ (20 x (maat/heup omtrek))</string>
+    <string name="RepetitionLabel_short">Herhalingen</string>
+    <string name="ResetAppLabel">Reset applicatie</string>
+    <string name="SecondsLabel_short">Sec.</string>
+    <string name="SerieLabel">Sets</string>
+    <string name="SettingLabel">Instellingen</string>
+    <string name="ShareInstruction">Bewerk je text voor het verzenden:</string>
+    <string name="ShareLabel">Delen</string>
+    <string name="ShareText">Delen</string>
+    <string name="ShareTextDefault">Ik heb __GEWICHT__ kg getild op __Machine__!</string>
+    <string name="ShareTitle">Deel je perf</string>
+    <string name="TopTenLabel">Laatste records:</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"UIT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AAN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="abdominaux">Buikspieren</string>
+    <string name="access_granted">Toegang verleend</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="activate_rest_time">Activeer rust timer</string>
+    <string name="add_new_exercise">Voeg nieuwe Oefening</string>
+    <string name="add_to_template">Voeg toe aan programma</string>
+    <string name="adducteurs">Dijen</string>
+    <string name="all">Alle</string>
+    <string name="also_update_program">Werk het programma bij</string>
+    <string name="another_time_maybe">Misschien een andere keer:)</string>
+    <string name="areyousure">Weet je het zeker?</string>
+    <string name="automatic_date_time">Automatisch datum / tijd</string>
+    <string name="autoui_mode">Auto</string>
+    <string name="backDialog_confirm_text">Wil je opslaan voor het afsluiten?</string>
+    <string name="backup_notStarted">Geen back-up begonnen</string>
+    <string name="backup_warning_day">One Day verstreken sinds de laatste back-up.</string>
+    <string name="backup_warning_month">Een maand verstreken sinds de laatste back-up.</string>
+    <string name="backup_warning_never">Doe nu uw eerste Backup.</string>
+    <string name="backup_warning_week">Een week verstreken sinds de laatste back-up.</string>
+    <string name="behind">Heupen</string>
+    <string name="biceps">Biceps</string>
+    <string name="birthday_optional">Verjaardag (Optioneel)</string>
+    <string name="bodytracking">Lichaam Track</string>
+    <string name="bonesLabel">Botten</string>
+    <string name="camera">Camera</string>
+    <string msgid="3209159573327985035" name="copy">"Kopiëren"</string>
+    <string name="create">Creeer</string>
+    <string name="createExerciseFirst">Je moet eerst een oefening toevoegen</string>
+    <string name="createProfilQuestion">Kies je profielnaam?</string>
+    <string name="createProfilTitle">Maak nieuw profiel</string>
+    <string name="create_a_profile">Maak een profel aan</string>
+    <string name="crop_image_activity_no_permissions">Wordt geannuleerd, vereiste machtigingen zijn niet toegekend</string>
+    <string name="crop_image_activity_title"/>
+    <string name="crop_image_menu_crop">Bijsnijden</string>
+    <string name="crop_image_menu_flip">Spiegelen</string>
+    <string name="crop_image_menu_flip_horizontally">Horizontaal spiegelen</string>
+    <string name="crop_image_menu_flip_vertically">Verticaal spiegelen</string>
+    <string name="crop_image_menu_rotate_left">Tegen de klok in draaien</string>
+    <string name="crop_image_menu_rotate_right">Draaien</string>
+    <string name="dark_mode">Donker</string>
+    <string name="database_migration">Database migratie</string>
+    <string name="database_migration_success">App-bestanden gemigreerd</string>
+    <string name="daynightmode_settingtitle">Selecteer uw thema (opnieuw opstarten vereist)</string>
+    <string name="deleteDB_warning">
+        Deze actie zal de hele app resetten.
+        Alle data gaat verloren.
+        Weet je het zeker?
+        Dit al de app sluiten.
+    </string>
+    <string name="deleteMachine_confirm_text">Wil je deze oefening verwijderen? Alle gelinkte data wordt verwijderd.</string>
+    <string name="delete_bodypart_confirm">Wilt u dit lichaamsdeel te schrappen? Alle bijbehorende maatregelen zullen worden verwijderd.</string>
+    <string name="deltoids">Schouders</string>
+    <string name="description">Beschrijving</string>
+    <string name="details">Details</string>
+    <string name="disclaimer_scoped_storage">Als gevolg van wijzigingen van Google, applicatie-bestanden moeten worden gemigreerd. Dit kan enige tijd duren als u veel foto\'s. Wees alstublieft geduldig.</string>
+    <string name="dorseaux">Rug</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="edit">Bewerk</string>
+    <string name="edit_soon_available">Bewerken binnekort beschikbaar</string>
+    <string name="edit_value">Waarde bewerken</string>
+    <string name="editor">Editor</string>
+    <string name="enter_birthday">Voer de verjaardag</string>
+    <string name="enter_bodypart_name">Voer Body part naam</string>
+    <string name="enter_gender_here">Voeg geslacht toe</string>
+    <string name="enter_profile_name">Voer profielnaam</string>
+    <string name="enter_size_cm">Voer grootte (cm)</string>
+    <string name="enter_workout_name">Voer de naam van het programma</string>
+    <string name="exercise_type">Oefening soort:</string>
+    <string name="exit">Afsluiten</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Geavanceerd"</string>
+    <string name="export_database">Records exporteren</string>
+    <string name="export_failed">Database exporteren mislukt</string>
+    <string name="export_question">Wil je de database van … Exporteren</string>
+    <string name="export_success">Database geexporteerd</string>
+    <string name="fail">Mislukking</string>
+    <string name="failedtocreatefolder">Folder maken mislukt</string>
+    <string name="fatLabel">Vet</string>
+    <string name="femaleGender">Vrouw</string>
+    <string name="ffmiLabel">VVMI</string>
+    <string name="fillNameField">Vul in ieder geval je naam in</string>
+    <string name="filterExerciseTypeDialogLabel">Filter voor Trainingstypen</string>
+    <string name="filter_by_workout_name">Filter op programmanaam</string>
+    <string name="finish_program">Compleet programma</string>
+    <string name="free_workout">Gratis sessie</string>
+    <string name="gallery">Galerij</string>
+    <string name="gender">Geslacht</string>
+    <string name="global_confirm">Bevestig</string>
+    <string name="global_confirm_question">Weet je het zeker?</string>
+    <string name="global_no">Nee</string>
+    <string name="global_warning">Waarschuwing</string>
+    <string name="global_yes">Ja</string>
+    <string name="glutes">Bilspieren</string>
+    <string name="graph_all">Alle</string>
+    <string name="graph_lastmonth">Vorige maand</string>
+    <string name="graph_lastweek">Vorige week</string>
+    <string name="graph_lastyear">Vorig jaar</string>
+    <string name="imcLabel">BMI</string>
+    <string name="import_database">Records importeren</string>
+    <string name="import_failed"> importeren mislukt</string>
+    <string name="import_new_exercise_first">(Importeer eerst nieuwe oefeningen)</string>
+    <string name="imported_successfully"> importeren succesvol</string>
+    <string name="impossibleToDeleteProfile">Kan huidig profiel niet verwijderen</string>
+    <string name="indexLabel">Index</string>
+    <string name="info">Informations</string>
+    <string name="introSlide1Text">Welkom bij Fast n Fitness! Deze app is een snelle en simpele manier om je trainingen en vooruitgang bij te houden, evenals de vooruitgang van je lichaam.</string>
+    <string name="introSlide1Title">Hallo</string>
+    <string name="introSlide2Text">Schrijf de naam van de oefening en de details en deze worden automatisch gemaakt. Je vindt het gemakkelijk terug in de lijst.</string>
+    <string name="introSlide2Title">Snel en makkelijk</string>
+    <string name="ischio_jambiers">Hamstrings</string>
+    <string name="lastRecordLabel">Vorige record</string>
+    <string name="left_arm">Linker biceps</string>
+    <string name="left_calves">linker kuit</string>
+    <string name="left_thigh">Linker dij</string>
+    <string name="license">Licentie:</string>
+    <string name="light_mode">Doorzichtig</string>
+    <string name="maleGender">Man</string>
+    <string name="max">Max</string>
+    <string name="maxLengthPerDate">Max duur per Date</string>
+    <string name="maxRep1">Maximum (Reps >= 1)</string>
+    <string name="maxRep5d">Maximum (Reps >= 5)</string>
+    <string name="maxReps">Max Herhalingen</string>
+    <string name="maxWeightPerDuration">"Max Weight per Duration"</string>
+    <string name="measureLabel">Afmetingen</string>
+    <string name="menu_Workout">Workout</string>
+    <string name="min">Min</string>
+    <string name="missinginfo">Ontbrekende info</string>
+    <string name="mollets">Kuiten</string>
+    <string name="muscles">Spieren</string>
+    <string name="musclesLabel">Spieren</string>
+    <string name="name">Naam</string>
+    <string name="name_is_required">Naam is vereist</string>
+    <string name="name_or_pseudo">Naam / pseudoniem</string>
+    <string name="nbSeriesPerDate">Nb Sets per Date</string>
+    <string name="nb_serie">Nb Sets</string>
+    <string name="neck">Nek</string>
+    <string name="newStr">Nieuw</string>
+    <string name="new_folder">Nieuwe map</string>
+    <string name="new_measure">Nieuwe maatregel</string>
+    <string name="new_program">Nieuw programma</string>
+    <string name="no_chart_data_available">Geen gegevens</string>
+    <string name="no_fat_available">geen vet beschikbaar</string>
+    <string name="no_size_available">geen maat beschikbaar</string>
+    <string name="no_weight_available">geen gewicht beschikbaar</string>
+    <string name="normal">Normaal</string>
+    <string name="not_done">Niet klaar</string>
+    <string msgid="478774118347071097" name="not_set">"Niet ingesteld"</string>
+    <string name="obese">Obesitas</string>
+    <string name="obliques">Schuine buikspier</string>
+    <string name="oneRepMax">1RM (Herhalingen &lt;= 10)</string>
+    <string name="otherGender">Andere</string>
+    <string name="overweight">Overgewicht</string>
+    <string name="pectoraux">Borst</string>
+    <string name="pick_image_intent_chooser_title">Bron selecteren</string>
+    <string name="please_start_program_first">Gelieve start programma voor het eerst</string>
+    <string name="pref_audio_setting">Rest Timer Instellingen</string>
+    <string name="pref_lastBackupSettingSummary">Laatste backup:</string>
+    <string name="pref_play_sound_after_rest_timer">Signaal</string>
+    <string name="pref_play_sound_after_rest_timer_summary">Beep aan het eind van rust timer</string>
+    <string name="pref_play_vibration_after_rest_timer">Vibratie</string>
+    <string name="pref_play_vibration_after_rest_timer_summary">Trillen aan het eind van rust timer</string>
+    <string name="pref_preferredBackupSettingTitle">Frequentie</string>
+    <string name="pref_preferredDistanceUnitTitle">Selecteer je gewenste afstand unit</string>
+    <string name="pref_preferredSizeUnitTitle">Selecteer je gewenste grootte unit</string>
+    <string name="pref_preferredUnitSummary">Voorkeurs unit:</string>
+    <string name="pref_preferredUnitTitle">Selecteer je gewenste gewicht unit</string>
+    <string name="pref_scheduled_backup_setting">Automatic Backup Settings</string>
+    <string name="pref_show_mp3_player">Mp3 speler weergeven</string>
+    <string name="pref_show_mp3_player_summary">Toon/verberg mp3 speler</string>
+    <string name="pref_ui_setting">UI Instellingen</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\'<ns1:g id="SUMMARY">%1$s</ns1:g>\' is gekopieerd naar het klembord."</string>
+    <string name="pressBackAgain">Klik nog een keer op nack om af te sluiten</string>
+    <string name="profil_change">Profiel wisselen</string>
+    <string name="profil_create_new">Nieuw profiel creeren</string>
+    <string name="profil_delete">Verwijder een profiel</string>
+    <string name="profil_select_profil">Selecteer een profiel</string>
+    <string name="profil_select_profil_to_delete">Kies een profiel om te verwijderen</string>
+    <string name="profileCreated">Profiel gemaakt</string>
+    <string name="profileDeleted">Profiel verwijderd</string>
+    <string name="profileEnterYourBirthday">Je verjaardag</string>
+    <string name="profileEnterYourSize">Je maat</string>
+    <string name="profileSelected">Profiel geselecteerd</string>
+    <string name="profile_page">Profiel Pagina</string>
+    <string name="program">Programma</string>
+    <string name="program_completed">U hebt uw programma afgerond! Wilt u om te sluiten?</string>
+    <string name="program_ongoing">Lopende:</string>
+    <string name="program_preview">Programma voorbeeld:</string>
+    <string name="program_running">Programma:</string>
+    <string name="programs">Programma:</string>
+    <string name="quadriceps">Quadriceps</string>
+    <string name="record_editor">Editor</string>
+    <string name="recordcopied">Record gekopieerd</string>
+    <string name="remove_image">Verwijder afbeelding</string>
+    <string name="removedid">Verwijderde id</string>
+    <string name="renameMachine_error_text2">ERROR: Deze naam bestaat al. Het is niet mogelijk om 2 oefeningen van verschillende types met dezelfde naam te koppelen.</string>
+    <string name="renameMachine_warning_text">WAARSCHUWING:Deze naam bestaat al. Data wordt samengevoegd met andere oefening.</string>
+    <string name="renameProfilQuestion">Dit profiel hernoemen?</string>
+    <string name="renameProfilTitle">Hernoem profiel</string>
+    <string name="reset">Herstel</string>
+    <string name="rest_time">Rust tijd(sec)</string>
+    <string name="rest_time_row">Rusttijd:</string>
+    <string name="rfmLabel">RFM</string>
+    <string name="right_arm">Rechter biceps</string>
+    <string name="right_calves">Rechter kuit</string>
+    <string name="right_thigh">Rechter dij</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Zoeken"</string>
+    <string name="selectExerciseTypeFirst">U moet selecteren van ten minste één type training</string>
+    <string name="selectMachineDialogLabel">Selecteer een bestaande oefening</string>
+    <string name="selectMuscles">Kies Spieren</string>
+    <string name="shoulders">Schouders</string>
+    <string name="size">Grootte</string>
+    <string name="sizeTableLabel">Afmetingen history:</string>
+    <string name="size_cm_optional">Maat in cm (optioneel)</string>
+    <string name="something_went_wrong">Arf, ging er iets mis!</string>
+    <string name="speed">Speed</string>
+    <string name="start">Start</string>
+    <string name="start_program">Start programma</string>
+    <string name="staticExercise">Isometric</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="strength_category">Sterkte</string>
+    <string name="success">Succes</string>
+    <string name="sum">Gewicht Sum</string>
+    <string name="sumDistance">Distance</string>
+    <string name="sumDuration">Duration</string>
+    <string name="sumReps">Sum Herhalingen</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="textSlideEssential">Geen van de oefeningen zijn pre-created. Creeer je eigen oefeningen gebaseerd op de naam van de machine(s) die je gebruikt.</string>
+    <string name="textSlideOpenSource">Join the community! Laten we samen de beste fitness app maken! Bezoek ons op https://github.com/brodeurlv/fastnfitness</string>
+    <string name="this_program_is_empty">Dit programma is leeg</string>
+    <string name="timeLabel">Tijd</string>
+    <string name="titleSlideEssential">ga naar de essentials</string>
+    <string name="titleSlideOpenSource">It\'s open-source!</string>
+    <string name="total_machine">Totaal op oefening</string>
+    <string name="total_on">Totaal op</string>
+    <string name="total_session">Totaal tijdens sessie</string>
+    <string name="total_weight">Totale gewicht</string>
+    <string name="trapezius">Trapezius</string>
+    <string name="triceps">Triceps</string>
+    <string name="underweight">Ondergewicht</string>
+    <string name="unit_settings_title">eenheden</string>
+    <string name="update">Bijwerken</string>
+    <string name="userChanged">Gebruiker gewisseld</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"UIT"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"AAN"</string>
+    <string name="waist">Heup</string>
+    <string name="waterLabel">Water</string>
+    <string name="weightLabel">Gewicht</string>
+    <string name="weightMenuLabel">Gewicht Track</string>
+    <string name="weightRequiredForMultipleInputs">Je moet een gewicht geven om meerdere waarden toe te voegen</string>
+    <string name="what_type_of_exercise">Welke oefening?</string>
+    <string name="workout_list_menu_item">Programmalijst</string>
+</resources>

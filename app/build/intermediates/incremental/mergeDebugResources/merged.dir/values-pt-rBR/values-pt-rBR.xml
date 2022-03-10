@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="graph_cardio_functions">
+        <item>@string/sumDistance</item>
+        <item>@string/sumDuration</item>
+        <item>@string/speed</item>
+    </string-array>
+    <string-array name="graph_functions">
+        <item>@string/maxRep1</item>
+        <item>@string/maxRep5d</item>
+        <item>@string/sum</item>
+    </string-array>
+    <string-array name="graph_static_functions">
+        <item>@string/maxWeightPerDuration</item>
+        <item>@string/nbSeriesPerDate</item>
+    </string-array>
+    <string name="AboutLabel">Sobre</string>
+    <string name="AddLabel">Adicionar</string>
+    <string name="BMI_dialog_title">Índice de massa corporal (IMC)</string>
+    <string name="BMI_formula">IMC = peso(kg) / tamanho(m)²</string>
+    <string name="CardioLabel">Cardio</string>
+    <string name="ChronometerLabel">Cronômetro</string>
+    <string name="CountdownLabel">Tempo de descanso</string>
+    <string name="DateLabel">Data</string>
+    <string name="DeleteLabel">Excluir</string>
+    <string name="DeleteRecordDialog">Remover esse registro?</string>
+    <string name="DistanceLabel">Distância</string>
+    <string name="DurationLabel">Duração</string>
+    <string name="EditLabel">Editar</string>
+    <string name="FFMI_dialog_title">Índice de massa livre de gordura (IMLG)</string>
+    <string name="FFMI_formula">IMLG [kg/m2] = peso [kg] × (1 − (gordura corporal [%] / 100)) / (altura [m])²</string>
+    <string name="FilterHint">Filtrar por nome de exercício</string>
+    <string name="FilterTextViewType">Filtrar por tipo de exercício</string>
+    <string name="FonteLabel">Musculação</string>
+    <string name="FunctionLabel">Exibir</string>
+    <string name="GraphLabel">Gráficos</string>
+    <string name="HistoryLabel">Histórico</string>
+    <string name="MachineHint">Nome do seu exercício</string>
+    <string name="MachineLabel">Exercício</string>
+    <string name="MachinesLabel">Exercícios</string>
+    <string name="NotesLabel">Notas</string>
+    <string name="PoidsLabel">Peso</string>
+    <string name="ProfileLabel">Perfil</string>
+    <string name="RFM_dialog_title">Índice de Gordura Relativa (IGR)</string>
+    <string name="RFM_female_formula">Mulheres: IGR = 76 – (20 x (tamanho/circunferência da cintura))</string>
+    <string name="RFM_male_formula">Homens: RFM = 64 – (20 x (tamanho/circunferência da cintura))</string>
+    <string name="RepetitionLabel_short">Reps</string>
+    <string name="ResetAppLabel">Redefinir aplicativo</string>
+    <string name="SecondsLabel_short">Segs</string>
+    <string name="SerieLabel">Séries</string>
+    <string name="SettingLabel">Configurações</string>
+    <string name="ShareInstruction">Edite seu texto antes de enviar:</string>
+    <string name="ShareLabel">Compartilhar</string>
+    <string name="ShareText">Compartilhar</string>
+    <string name="ShareTextDefault">Eu levantei __WEIGHT__ kg em __MACHINE__ !</string>
+    <string name="ShareTitle">Compartilhar desempenho</string>
+    <string name="TopTenLabel">Registros recentes:</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="abdominaux">Abdominais</string>
+    <string name="access_granted">Aceso concedido</string>
+    <string name="action_settings">Configurações</string>
+    <string name="activate_rest_time">Ativar contagem regressiva de repouso</string>
+    <string name="add_new_exercise">Adicionar novo exercício</string>
+    <string name="add_to_template">Adicionar a programa</string>
+    <string name="adducteurs">Coxas</string>
+    <string name="all">Tudo</string>
+    <string name="also_update_program">Atualize o programa</string>
+    <string name="another_time_maybe">Talvez outra hora :)</string>
+    <string name="areyousure">Tem certeza?</string>
+    <string name="automatic_date_time">data/hora automática</string>
+    <string name="autoui_mode">Auto</string>
+    <string name="backDialog_confirm_text">Deseja salvar antes de sair?</string>
+    <string name="backup_notStarted">Nenhum backup começou</string>
+    <string name="backup_warning_day">Um dia passou desde o último backup.</string>
+    <string name="backup_warning_month">Um mês se passou desde o último backup.</string>
+    <string name="backup_warning_never">Faça o seu primeiro backup agora.</string>
+    <string name="backup_warning_week">Uma semana se passou desde o último backup.</string>
+    <string name="behind">Quadris</string>
+    <string name="biceps">Bíceps</string>
+    <string name="birthday_optional">Data de nascimento (opcional)</string>
+    <string name="bodytracking">Monitor corporal</string>
+    <string name="bonesLabel">Ossos</string>
+    <string name="camera">Câmera</string>
+    <string msgid="3209159573327985035" name="copy">"Copiar"</string>
+    <string name="create">Criar</string>
+    <string name="createExerciseFirst">Você deve primeiro criar um exercício</string>
+    <string name="createProfilQuestion">Escolher o nome do seu perfil?</string>
+    <string name="createProfilTitle">Criar novo perfil</string>
+    <string name="create_a_profile">Criar um perfil</string>
+    <string name="crop_image_activity_title"/>
+    <string name="crop_image_menu_crop">Cortar</string>
+    <string name="crop_image_menu_flip">Espelhar</string>
+    <string name="crop_image_menu_flip_horizontally">Espelhar na horizontal</string>
+    <string name="crop_image_menu_flip_vertically">Espelhar na vertifcal</string>
+    <string name="crop_image_menu_rotate_left">Girar para a esquerda</string>
+    <string name="crop_image_menu_rotate_right">Girar para a direita</string>
+    <string name="dark_mode">Escuro</string>
+    <string name="database_migration">Migração de banco de dados</string>
+    <string name="database_migration_success">Arquivos de aplicativos migrados com êxito</string>
+    <string name="daynightmode_settingtitle">Selecione seu tema (precisa reiniciar)</string>
+    <string name="deleteDB_warning">
+        Esta ação vai redefinir todo o aplicativo.
+        Todos os dados serão perdidos.
+        Tem certeza?
+        Isso vai fechar o aplicativo.
+    </string>
+    <string name="deleteMachine_confirm_text">Deseja excluir este exercício? Todos os registros associados serão excluídos.</string>
+    <string name="delete_bodypart_confirm">Você deseja excluir esta parte do corpo? Todas as medidas associadas serão eliminadas.</string>
+    <string name="deltoids">Deltoides</string>
+    <string name="description">Descrição</string>
+    <string name="details">Detalhes</string>
+    <string name="disclaimer_scoped_storage">Devido a alterações do Google, arquivos de aplicativos precisam ser migrados. Isso pode levar algum tempo se você tem um monte de fotos. Por favor, seja paciente.</string>
+    <string name="dorseaux">Costas</string>
+    <string name="drawer_close">Fechar a gaveta de navegação</string>
+    <string name="drawer_open">Abrir a gaveta de navegação</string>
+    <string name="edit">Editar</string>
+    <string name="edit_soon_available">Edição disponível em breve</string>
+    <string name="edit_value">Editar valor</string>
+    <string name="editor">Editor</string>
+    <string name="enter_birthday">Digite o aniversário</string>
+    <string name="enter_bodypart_name">Digite o nome da parte do corpo</string>
+    <string name="enter_gender_here">Insira o gênero</string>
+    <string name="enter_profile_name">Digite o nome do perfil</string>
+    <string name="enter_size_cm">Digite o tamanho (cm)</string>
+    <string name="enter_workout_name">Digite o nome do programa</string>
+    <string name="exercise_type">Tipo de exercício:</string>
+    <string name="exit">Sair</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avançado"</string>
+    <string name="export_database">Exportar registros</string>
+    <string name="export_failed">Falha ao exportar o banco de dados</string>
+    <string name="export_question">Deseja exportar o banco de dados de </string>
+    <string name="export_success">Banco de dados exportado</string>
+    <string name="fail">Falhar</string>
+    <string name="failedtocreatefolder">Falha ao criar pasta</string>
+    <string name="fatLabel">Gordura</string>
+    <string name="femaleGender">Feminino</string>
+    <string name="ffmiLabel">IMLG</string>
+    <string name="fillNameField">Por favor, insira seu nome, pelo menos</string>
+    <string name="filterExerciseTypeDialogLabel">Filtro para Tipos de Exercício</string>
+    <string name="filter_by_workout_name">Filtrar por nome do programa</string>
+    <string name="finish_program">Programa concluído</string>
+    <string name="free_workout">Sessão livre</string>
+    <string name="gallery">Galeria</string>
+    <string name="gender">Gênero</string>
+    <string name="global_confirm">Confirmar</string>
+    <string name="global_confirm_question">Tem certeza?</string>
+    <string name="global_no">Não</string>
+    <string name="global_warning">Aviso</string>
+    <string name="global_yes">Sim</string>
+    <string name="glutes">Glúteos</string>
+    <string name="graph_all">Todos</string>
+    <string name="graph_lastmonth">Mês passado</string>
+    <string name="graph_lastweek">Semana passada</string>
+    <string name="graph_lastyear">Último ano</string>
+    <string name="imcLabel">IMC</string>
+    <string name="import_database">Importar registros</string>
+    <string name="import_failed"> importação falhou</string>
+    <string name="import_new_exercise_first">(importe novos exercícios primeiro)</string>
+    <string name="imported_successfully"> importado com sucesso</string>
+    <string name="impossibleToDeleteProfile">Não é possível excluir o perfil atual</string>
+    <string name="indexLabel">Índice</string>
+    <string name="info">Informações</string>
+    <string name="introSlide1Text">Bem-vindo ao Fast N Fitness! esse aplicativo é uma forma simples e rápida de registrar seu treino e monitorar seu progresso e evolução de seu corpo.</string>
+    <string name="introSlide1Title">Olá</string>
+    <string name="introSlide2Text">Escreva o nome do exercício e os detalhes, e ele será criado automaticamente. Você pode encontrá-lo novamente com facilidade na lista.</string>
+    <string name="introSlide2Title">Rápido e fácil</string>
+    <string name="ischio_jambiers">Isquiotibiais</string>
+    <string name="lastRecordLabel">Último registro</string>
+    <string name="left_arm">Bíceps esquerdo</string>
+    <string name="left_calves">Panturrilha esquerda</string>
+    <string name="left_thigh">Coxa esquerda</string>
+    <string name="license">Licença:</string>
+    <string name="light_mode">Claro</string>
+    <string name="maleGender">Masculino</string>
+    <string name="max">Máx</string>
+    <string name="maxLengthPerDate">Max. duração por Data</string>
+    <string name="maxRep1">Máximo (Reps >= 1)</string>
+    <string name="maxRep5d">Máximo (Reps >= 5)</string>
+    <string name="maxReps">Máx de Reps</string>
+    <string name="maxWeightPerDuration">"Máx. peso por duração"</string>
+    <string name="measureLabel">Medida</string>
+    <string name="menu_Workout">Treino</string>
+    <string name="min">Mín</string>
+    <string name="missinginfo">Faltando informações</string>
+    <string name="mollets">Panturrilhas</string>
+    <string name="muscles">Músculos</string>
+    <string name="musclesLabel">Músculos</string>
+    <string name="name">Nome</string>
+    <string name="name_is_required">Nome é necessário</string>
+    <string name="name_or_pseudo">Nome / pseudônimo</string>
+    <string name="nbSeriesPerDate">"Núm. séries por data"</string>
+    <string name="nb_serie">Núm. da série</string>
+    <string name="neck">Pescoço</string>
+    <string name="newStr">Novo</string>
+    <string name="new_folder">Nova pasta</string>
+    <string name="new_measure">Nova medida</string>
+    <string name="new_program">Novo programa</string>
+    <string name="no_chart_data_available">Nenhum dado</string>
+    <string name="no_fat_available">nenhuma gordura disponível</string>
+    <string name="no_size_available">nenhum tamanho disponível</string>
+    <string name="no_weight_available">nenhum peso disponível</string>
+    <string name="normal">normal</string>
+    <string name="not_done">Não realizado</string>
+    <string msgid="478774118347071097" name="not_set">"Não definido"</string>
+    <string name="obese">obeso</string>
+    <string name="obliques">Oblíquos</string>
+    <string name="oneRepMax">1RM (Reps &lt;= 10)</string>
+    <string name="otherGender">Outro</string>
+    <string name="overweight">sobrepeso</string>
+    <string name="pectoraux">Peitoral</string>
+    <string name="pick_image_intent_chooser_title">Escolher foto a partir de</string>
+    <string name="please_start_program_first">Por favor, incie o programa primeiro</string>
+    <string name="pref_audio_setting">Definições do temporizador de descanso</string>
+    <string name="pref_lastBackupSettingSummary">Ultimo Back up:</string>
+    <string name="pref_play_sound_after_rest_timer">Bip</string>
+    <string name="pref_play_sound_after_rest_timer_summary">Bip no final do temporizador resto</string>
+    <string name="pref_play_vibration_after_rest_timer">Vibração</string>
+    <string name="pref_play_vibration_after_rest_timer_summary">Vibrar no final do temporizador resto</string>
+    <string name="pref_preferredBackupSettingTitle">Frequência</string>
+    <string name="pref_preferredDistanceUnitTitle">Selecione sua unidade de distância preferida</string>
+    <string name="pref_preferredSizeUnitTitle">Selecione sua unidade de tamanho preferida</string>
+    <string name="pref_preferredUnitSummary">Unidade preferida:</string>
+    <string name="pref_preferredUnitTitle">Selecione sua unidade de peso preferida</string>
+    <string name="pref_scheduled_backup_setting">Configurações de backup automático</string>
+    <string name="pref_show_mp3_player">Mostrar tocador de MP3</string>
+    <string name="pref_show_mp3_player_summary">Mostra/oculta a barra de ferramentas do tocador de MP3</string>
+    <string name="pref_ui_setting">Configurações da UI</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" copiado para a área de transferência."</string>
+    <string name="pressBackAgain">Clique VOLTAR novamente para sair</string>
+    <string name="profil_change">Alterar perfil</string>
+    <string name="profil_create_new">Criar novo perfil</string>
+    <string name="profil_delete">Excluir um perfil</string>
+    <string name="profil_select_profil">Selecione um perfil</string>
+    <string name="profil_select_profil_to_delete">Selecione um perfil para excluir</string>
+    <string name="profileCreated">Perfil criado</string>
+    <string name="profileDeleted">Perfil excluído</string>
+    <string name="profileEnterYourBirthday">Sua data de nascimento</string>
+    <string name="profileEnterYourSize">Seu tamanho</string>
+    <string name="profileSelected">Perfil selecionado</string>
+    <string name="profile_page">Página do perfil</string>
+    <string name="program">Programa</string>
+    <string name="program_completed">Você completou seu programa! Você quer fechá-lo?</string>
+    <string name="program_ongoing">Programa em andamento:</string>
+    <string name="program_preview">Visualização do programa:</string>
+    <string name="program_running">Programa:</string>
+    <string name="programs">Programas:</string>
+    <string name="quadriceps">Quadríceps</string>
+    <string name="record_editor">Editor</string>
+    <string name="recordcopied">Registro copiado</string>
+    <string name="remove_image">Remover imagem</string>
+    <string name="removedid">ID removido</string>
+    <string name="renameMachine_error_text2">ERRO: Este nome do exercício já existe. Não é possível mesclar dois exercícios com o mesmo nome e tipos diferentes.</string>
+    <string name="renameMachine_warning_text">AVISO: Este nome de exercício já existe. Os registros serão mesclados com o outro exercício.</string>
+    <string name="renameProfilQuestion">Renomear este perfil?</string>
+    <string name="renameProfilTitle">Renomear perfil</string>
+    <string name="reset">Redefinir</string>
+    <string name="rest_time">Tempo de descanso (seg)</string>
+    <string name="rest_time_row">Tempo de descanso:</string>
+    <string name="rfmLabel">IGR</string>
+    <string name="right_arm">Bíceps direito</string>
+    <string name="right_calves">Panturrilha direita</string>
+    <string name="right_thigh">Coxa direita</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string name="selectExerciseTypeFirst">Você deve selecionar pelo menos um tipo de exercício</string>
+    <string name="selectMachineDialogLabel">Selecionar um exercício existente</string>
+    <string name="selectMuscles">Selecionar músculos</string>
+    <string name="shoulders">Ombros</string>
+    <string name="size">Tamanho</string>
+    <string name="sizeTableLabel">Histórico de medida:</string>
+    <string name="size_cm_optional">Tamanho em cm (opcional)</string>
+    <string name="something_went_wrong">Arf, algo deu errado!</string>
+    <string name="speed">Velocidade</string>
+    <string name="start">Iniciar</string>
+    <string name="start_program">Iniciar programa</string>
+    <string name="staticExercise">Isométrico</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="strength_category">Força</string>
+    <string name="success">Sucesso</string>
+    <string name="sum">Soma de peso</string>
+    <string name="sumDistance">Distância</string>
+    <string name="sumDuration">Duração</string>
+    <string name="sumReps">Soma de Reps</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="textSlideEssential">Não há exercício predefinido. Você cria seus próprios exercícios simplesmente dependendo do nome da máquina que você tem na sua academia / local de treino.</string>
+    <string name="textSlideOpenSource">Junte-se à comunidade e vamos construir o melhor aplicativo fitness juntos! Visite-nos em https://github.com/brodeurlv/fastnfitness</string>
+    <string name="this_program_is_empty">Este programa está vazio</string>
+    <string name="timeLabel">Tempo</string>
+    <string name="titleSlideEssential">Vá ao essencial</string>
+    <string name="titleSlideOpenSource">É código aberto!</string>
+    <string name="total_machine">Total em exercícios</string>
+    <string name="total_on">Total em</string>
+    <string name="total_session">Total durante a seção</string>
+    <string name="total_weight">Peso total</string>
+    <string name="trapezius">Trapézios</string>
+    <string name="triceps">Tríceps</string>
+    <string name="underweight">subpeso</string>
+    <string name="unit_settings_title">Unidades</string>
+    <string name="update">Atualizar</string>
+    <string name="userChanged">Usuário alterado</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"DESATIVADO"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ATIVADO"</string>
+    <string name="waist">Cintura</string>
+    <string name="waterLabel">Água</string>
+    <string name="weightLabel">Peso</string>
+    <string name="weightMenuLabel">Monitor de peso</string>
+    <string name="weightRequiredForMultipleInputs">Você tem que fornecer um peso para adicionar vários valores</string>
+    <string name="what_type_of_exercise">Que tipo de exercício ?</string>
+    <string name="workout_list_menu_item">Lista de programas</string>
+</resources>

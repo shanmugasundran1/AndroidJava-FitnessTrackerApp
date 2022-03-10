@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.JDevZone:FillProgressLayout:0.0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89b89163f9c82d666177a65f23e8dd40/jetified-FillProgressLayout-0.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89b89163f9c82d666177a65f23e8dd40/jetified-FillProgressLayout-0.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89b89163f9c82d666177a65f23e8dd40/jetified-FillProgressLayout-0.0.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.JDevZone/FillProgressLayout/0.0.8/1f3394ef9b71e75e66ea836ad9a4768abcc2c03/FillProgressLayout-0.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

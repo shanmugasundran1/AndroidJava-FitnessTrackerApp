@@ -1,0 +1,279 @@
+com/easyfitness/utils/Value.java
+ com.easyfitness.utils.Value
+com/easyfitness/DAO/bodymeasures/DAOBodyMeasure.java
+ com.easyfitness.DAO.bodymeasures.DAOBodyMeasure
+com/easyfitness/BtnClickListener.java
+ com.easyfitness.BtnClickListener
+com/easyfitness/DAO/program/DAOProgram.java
+ com.easyfitness.DAO.program.DAOProgram
+com/easyfitness/enums/UnitType.java
+ com.easyfitness.enums.UnitType
+com/easyfitness/DAO/ProfileWeight.java
+ com.easyfitness.DAO.ProfileWeight
+com/easyfitness/DAO/DAOProfileWeight.java
+ com.easyfitness.DAO.DAOProfileWeight
+com/easyfitness/utils/Keyboard.java
+ com.easyfitness.utils.Keyboard
+gr/antoniom/chronometer/Chronometer.java
+ gr.antoniom.chronometer.Chronometer
+ gr.antoniom.chronometer.Chronometer$1
+ gr.antoniom.chronometer.Chronometer$OnChronometerTickListener
+com/easyfitness/utils/RealPathUtil.java
+ com.easyfitness.utils.RealPathUtil
+com/easyfitness/MainActivity.java
+ com.easyfitness.MainActivity
+ com.easyfitness.MainActivity$1
+ com.easyfitness.MainActivity$DrawerItemClickListener
+com/easyfitness/utils/ExpandedListView.java
+ com.easyfitness.utils.ExpandedListView
+com/easyfitness/CustomSpinnerAdapter.java
+ com.easyfitness.CustomSpinnerAdapter
+ com.easyfitness.CustomSpinnerAdapter$1
+ com.easyfitness.CustomSpinnerAdapter$SpinnerHolder
+com/easyfitness/utils/MusicController.java
+ com.easyfitness.utils.MusicController
+ com.easyfitness.utils.MusicController$1
+ com.easyfitness.utils.MusicController$2
+ com.easyfitness.utils.MusicController$3
+ com.easyfitness.utils.MusicController$4
+ com.easyfitness.utils.MusicController$5
+ com.easyfitness.utils.MusicController$Audio
+ com.easyfitness.utils.MusicController$NoisyAudioStreamReceiver
+com/easyfitness/DAO/DAOUtils.java
+ com.easyfitness.DAO.DAOUtils
+com/easyfitness/DAO/cardio/DAOOldCardio.java
+ com.easyfitness.DAO.cardio.DAOOldCardio
+com/easyfitness/programs/ProgramPagerFragment.java
+ com.easyfitness.programs.ProgramPagerFragment
+ com.easyfitness.programs.ProgramPagerFragment$1
+com/easyfitness/utils/DateConverter.java
+ com.easyfitness.utils.DateConverter
+com/easyfitness/AppViMo.java
+ com.easyfitness.AppViMo
+com/easyfitness/BuildConfig.java
+ com.easyfitness.BuildConfig
+com/easyfitness/DAO/DAOProfile.java
+ com.easyfitness.DAO.DAOProfile
+com/easyfitness/enums/WeightUnit.java
+ com.easyfitness.enums.WeightUnit
+com/easyfitness/DAO/Weight.java
+ com.easyfitness.DAO.Weight
+com/easyfitness/machines/ExerciseDetailsPager.java
+ com.easyfitness.machines.ExerciseDetailsPager
+ com.easyfitness.machines.ExerciseDetailsPager$1
+com/easyfitness/DAO/program/ProgramHistory.java
+ com.easyfitness.DAO.program.ProgramHistory
+com/easyfitness/enums/Gender.java
+ com.easyfitness.enums.Gender
+com/easyfitness/DAO/Profile.java
+ com.easyfitness.DAO.Profile
+com/easyfitness/enums/ProgramStatus.java
+ com.easyfitness.enums.ProgramStatus
+com/easyfitness/WeightCursorAdapter.java
+ com.easyfitness.WeightCursorAdapter
+com/easyfitness/utils/OnCustomEventListener.java
+ com.easyfitness.utils.OnCustomEventListener
+com/easyfitness/views/EditableInputViewWithDate.java
+ com.easyfitness.views.EditableInputViewWithDate
+com/easyfitness/programs/ProgramInfoFragment.java
+ com.easyfitness.programs.ProgramInfoFragment
+com/easyfitness/intro/NewProfileFragment.java
+ com.easyfitness.intro.NewProfileFragment
+ com.easyfitness.intro.NewProfileFragment$1
+ com.easyfitness.intro.NewProfileFragment$2
+com/easyfitness/fonte/FontesFragment.java
+ com.easyfitness.fonte.FontesFragment
+ com.easyfitness.fonte.FontesFragment$1
+ com.easyfitness.fonte.FontesFragment$2
+ com.easyfitness.fonte.FontesFragment$3
+ com.easyfitness.fonte.FontesFragment$4
+ com.easyfitness.fonte.FontesFragment$5
+com/easyfitness/enums/ExerciseType.java
+ com.easyfitness.enums.ExerciseType
+com/easyfitness/enums/RecordType.java
+ com.easyfitness.enums.RecordType
+com/easyfitness/CountdownDialogbox.java
+ com.easyfitness.CountdownDialogbox
+ com.easyfitness.CountdownDialogbox$1
+com/easyfitness/utils/AlarmReceiver.java
+ com.easyfitness.utils.AlarmReceiver
+com/easyfitness/views/EditableInputView.java
+ com.easyfitness.views.EditableInputView
+ com.easyfitness.views.EditableInputView$CustomerDialogBuilder
+ com.easyfitness.views.EditableInputView$OnTextChangedListener
+com/easyfitness/DAO/DAOBase.java
+ com.easyfitness.DAO.DAOBase
+com/easyfitness/DatePickerDialogFragment.java
+ com.easyfitness.DatePickerDialogFragment
+com/easyfitness/utils/ExifUtil.java
+ com.easyfitness.utils.ExifUtil
+com/easyfitness/utils/FileChooserDialog.java
+ com.easyfitness.utils.FileChooserDialog
+ com.easyfitness.utils.FileChooserDialog$1
+ com.easyfitness.utils.FileChooserDialog$1DirectoryOnClickListener
+ com.easyfitness.utils.FileChooserDialog$ChosenFileListener
+com/easyfitness/enums/Muscle.java
+ com.easyfitness.enums.Muscle
+ com.easyfitness.enums.Muscle$1
+ com.easyfitness.enums.Muscle$2
+ com.easyfitness.enums.Muscle$3
+ com.easyfitness.enums.Muscle$4
+ com.easyfitness.enums.Muscle$5
+ com.easyfitness.enums.Muscle$6
+com/easyfitness/intro/MainIntroActivity.java
+ com.easyfitness.intro.MainIntroActivity
+com/csvreader/CsvReader.java
+ com.csvreader.CsvReader
+ com.csvreader.CsvReader$ColumnBuffer
+ com.csvreader.CsvReader$ComplexEscape
+ com.csvreader.CsvReader$DataBuffer
+ com.csvreader.CsvReader$HeadersHolder
+ com.csvreader.CsvReader$Letters
+ com.csvreader.CsvReader$RawRecordBuffer
+ com.csvreader.CsvReader$StaticSettings
+ com.csvreader.CsvReader$UserSettings
+com/easyfitness/RecordEditorDialogbox.java
+ com.easyfitness.RecordEditorDialogbox
+ com.easyfitness.RecordEditorDialogbox$1
+com/easyfitness/TimePickerDialogFragment.java
+ com.easyfitness.TimePickerDialogFragment
+com/csvreader/CsvWriter.java
+ com.csvreader.CsvWriter
+ com.csvreader.CsvWriter$Letters
+ com.csvreader.CsvWriter$UserSettings
+com/easyfitness/bodymeasures/BodyPartDetailsFragment.java
+ com.easyfitness.bodymeasures.BodyPartDetailsFragment
+ com.easyfitness.bodymeasures.BodyPartDetailsFragment$1
+ com.easyfitness.bodymeasures.BodyPartDetailsFragment$2
+com/easyfitness/enums/DistanceUnit.java
+ com.easyfitness.enums.DistanceUnit
+com/easyfitness/machines/MachineFragment.java
+ com.easyfitness.machines.MachineFragment
+ com.easyfitness.machines.MachineFragment$1
+ com.easyfitness.machines.MachineFragment$2
+ com.easyfitness.machines.MachineFragment$3
+com/easyfitness/DAO/program/DAOProgramHistory.java
+ com.easyfitness.DAO.program.DAOProgramHistory
+com/easyfitness/machines/MachineArrayFullAdapter.java
+ com.easyfitness.machines.MachineArrayFullAdapter
+com/easyfitness/machines/MachineCursorAdapter.java
+ com.easyfitness.machines.MachineCursorAdapter
+com/easyfitness/programs/ProgramListFragment.java
+ com.easyfitness.programs.ProgramListFragment
+com/easyfitness/enums/Unit.java
+ com.easyfitness.enums.Unit
+com/easyfitness/DAO/CVSManager.java
+ com.easyfitness.DAO.CVSManager
+com/easyfitness/DAO/Machine.java
+ com.easyfitness.DAO.Machine
+com/easyfitness/bodymeasures/BodyMeasureCursorAdapter.java
+ com.easyfitness.bodymeasures.BodyMeasureCursorAdapter
+com/easyfitness/utils/CustomExceptionHandler.java
+ com.easyfitness.utils.CustomExceptionHandler
+com/easyfitness/ProfileFragment.java
+ com.easyfitness.ProfileFragment
+com/easyfitness/views/WorkoutValuesInputView.java
+ com.easyfitness.views.WorkoutValuesInputView
+ com.easyfitness.views.WorkoutValuesInputView$1
+com/easyfitness/DAO/bodymeasures/DAOBodyPart.java
+ com.easyfitness.DAO.bodymeasures.DAOBodyPart
+com/easyfitness/views/SingleValueInputView.java
+ com.easyfitness.views.SingleValueInputView
+com/easyfitness/SpinnerItem.java
+ com.easyfitness.SpinnerItem
+com/easyfitness/DAO/program/Program.java
+ com.easyfitness.DAO.program.Program
+com/easyfitness/AboutFragment.java
+ com.easyfitness.AboutFragment
+com/easyfitness/CustomDrawerAdapter.java
+ com.easyfitness.CustomDrawerAdapter
+ com.easyfitness.CustomDrawerAdapter$1
+ com.easyfitness.CustomDrawerAdapter$DrawerItemHolder
+com/easyfitness/DAO/record/DAOCardio.java
+ com.easyfitness.DAO.record.DAOCardio
+com/easyfitness/programs/ProgramRunnerFragment.java
+ com.easyfitness.programs.ProgramRunnerFragment
+ com.easyfitness.programs.ProgramRunnerFragment$1
+com/easyfitness/NumberPickerDialogbox.java
+ com.easyfitness.NumberPickerDialogbox
+com/easyfitness/machines/MachineDetailsFragment.java
+ com.easyfitness.machines.MachineDetailsFragment
+ com.easyfitness.machines.MachineDetailsFragment$1
+ com.easyfitness.machines.MachineDetailsFragment$2
+ com.easyfitness.machines.MachineDetailsFragment$3
+ com.easyfitness.machines.MachineDetailsFragment$4
+com/easyfitness/DAO/DAOMachine.java
+ com.easyfitness.DAO.DAOMachine
+com/easyfitness/enums/ProgramRecordStatus.java
+ com.easyfitness.enums.ProgramRecordStatus
+com/easyfitness/programs/ProgramListAdapter.java
+ com.easyfitness.programs.ProgramListAdapter
+ com.easyfitness.programs.ProgramListAdapter$1
+ com.easyfitness.programs.ProgramListAdapter$ViewHolder
+com/easyfitness/fonte/FonteHistoryFragment.java
+ com.easyfitness.fonte.FonteHistoryFragment
+ com.easyfitness.fonte.FonteHistoryFragment$1
+com/easyfitness/DataBindingTriggerClass.java
+ com.easyfitness.DataBindingTriggerClass
+com/easyfitness/enums/DisplayType.java
+ com.easyfitness.enums.DisplayType
+com/easyfitness/DAO/cardio/OldCardio.java
+ com.easyfitness.DAO.cardio.OldCardio
+com/easyfitness/ChronoDialogbox.java
+ com.easyfitness.ChronoDialogbox
+com/easyfitness/DAO/record/DAORecord.java
+ com.easyfitness.DAO.record.DAORecord
+com/easyfitness/DrawerItem.java
+ com.easyfitness.DrawerItem
+com/easyfitness/utils/ImageUtil.java
+ com.easyfitness.utils.ImageUtil
+ com.easyfitness.utils.ImageUtil$OnDeleteImageListener
+com/easyfitness/databinding/IntrofragmentNewprofileBinding.java
+ com.easyfitness.databinding.IntrofragmentNewprofileBinding
+com/easyfitness/ProfileViMo.java
+ com.easyfitness.ProfileViMo
+com/easyfitness/SettingsFragment.java
+ com.easyfitness.SettingsFragment
+com/easyfitness/DAO/bodymeasures/BodyPartExtensions.java
+ com.easyfitness.DAO.bodymeasures.BodyPartExtensions
+com/easyfitness/bodymeasures/BodyPartListFragment.java
+ com.easyfitness.bodymeasures.BodyPartListFragment
+com/easyfitness/DAO/bodymeasures/BodyMeasure.java
+ com.easyfitness.DAO.bodymeasures.BodyMeasure
+com/easyfitness/programs/ProgramHistoryCursorAdapter.java
+ com.easyfitness.programs.ProgramHistoryCursorAdapter
+com/easyfitness/programs/ProgramHistoryFragment.java
+ com.easyfitness.programs.ProgramHistoryFragment
+ com.easyfitness.programs.ProgramHistoryFragment$1
+com/easyfitness/enums/SizeUnit.java
+ com.easyfitness.enums.SizeUnit
+com/easyfitness/DAO/bodymeasures/BodyPart.java
+ com.easyfitness.DAO.bodymeasures.BodyPart
+com/easyfitness/licenses/CustomLicense.java
+ com.easyfitness.licenses.CustomLicense
+com/easyfitness/fonte/FontesPagerFragment.java
+ com.easyfitness.fonte.FontesPagerFragment
+ com.easyfitness.fonte.FontesPagerFragment$1
+com/easyfitness/DAO/record/DAOFonte.java
+ com.easyfitness.DAO.record.DAOFonte
+com/easyfitness/utils/UnitConverter.java
+ com.easyfitness.utils.UnitConverter
+ com.easyfitness.utils.UnitConverter$1
+com/easyfitness/ValuesEditorDialogbox.java
+ com.easyfitness.ValuesEditorDialogbox
+ com.easyfitness.ValuesEditorDialogbox$1
+com/easyfitness/DAO/record/DAOStatic.java
+ com.easyfitness.DAO.record.DAOStatic
+com/easyfitness/DAO/DatabaseHelper.java
+ com.easyfitness.DAO.DatabaseHelper
+com/easyfitness/bodymeasures/BodyPartListAdapter.java
+ com.easyfitness.bodymeasures.BodyPartListAdapter
+ com.easyfitness.bodymeasures.BodyPartListAdapter$1
+ com.easyfitness.bodymeasures.BodyPartListAdapter$ViewHolder
+com/easyfitness/fonte/RecordArrayAdapter.java
+ com.easyfitness.fonte.RecordArrayAdapter
+ com.easyfitness.fonte.RecordArrayAdapter$1
+ com.easyfitness.fonte.RecordArrayAdapter$2
+ com.easyfitness.fonte.RecordArrayAdapter$ViewHolder
+com/easyfitness/DAO/record/Record.java
+ com.easyfitness.DAO.record.Record
